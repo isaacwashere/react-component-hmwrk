@@ -32,3 +32,4 @@ class Projects extends React.Component {
 }
 
 export default Projects;
+//fixed the mapping issue here
